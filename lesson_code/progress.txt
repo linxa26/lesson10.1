@@ -1,0 +1,8 @@
+ Alex 40
+ Boris 20
+ Ben 20
+ Piter 30
+ Ted 10
+ Fedor 10
+ Carl 30
+ Alex 40
